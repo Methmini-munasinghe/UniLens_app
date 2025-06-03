@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">UniLens_app</string>
+    <string name="app_name">UniLens</string>
+    <string name="faculty_of_technology_uoc">Faculty Of Technology\nUOC</string>
+    <string name="imageView">UniLens Batch</string>
 </resources>
